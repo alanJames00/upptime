@@ -1,20 +1,20 @@
 [
   {
-    "name": "Google",
+    "name": "RunX API Server",
     "url": "https://runx.alanj.live/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/runx.alanj.live.ico",
-    "slug": "google",
+    "slug": "run-x-api-server",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 182,
-    "timeDay": 182,
-    "timeWeek": 182,
-    "timeMonth": 182,
-    "timeYear": 182,
+    "uptime": "28.65%",
+    "uptimeDay": "28.65%",
+    "uptimeWeek": "28.65%",
+    "uptimeMonth": "28.65%",
+    "uptimeYear": "28.65%",
+    "time": 176,
+    "timeDay": 176,
+    "timeWeek": 176,
+    "timeMonth": 176,
+    "timeYear": 176,
     "dailyMinutesDown": {
       "2024-09-05": 0
     }
